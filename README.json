@@ -7,23 +7,89 @@
           "children": [
             {
               "node_type": "item",
-              "title": "ERPNext by Frappe",
-              "description": "Open Source Alternative to SAP.",
+              "title": "Hoppscotch",
+              "description": "by Liyas Thomas A free, fast and beautiful API request builder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203587744,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:30:15Z",
+                "owner": "hoppscotch",
+                "repo": "hoppscotch",
+                "stars": 80089
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "> 25k 🌟"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hasura GraphQL Engine",
+              "description": "by Hasura Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137724480,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T16:56:27Z",
+                "owner": "hasura",
+                "repo": "graphql-engine",
+                "stars": 32101
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "> 15k 🌟"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kitty",
+              "description": "by Kovid Goyal A cross-platform, fast, feature full, GPU based terminal emulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71056775,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:08:33Z",
+                "owner": "kovidgoyal",
+                "repo": "kitty",
+                "stars": 34577
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "> 10k 🌟"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ERPNext",
+              "description": "by Frappe Open Source Alternative to SAP.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:22:38Z",
+                "last_commit": "2026-08-24T13:03:33Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38423
+                "stars": 38448
               }
             },
             {
               "node_type": "item",
-              "title": "Calibre by Kovid Goyal",
-              "description": "Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.",
+              "title": "Calibre",
+              "description": "by Kovid Goyal Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,13 +98,13 @@
                 "last_commit": "2026-08-23T23:25:51Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25714
+                "stars": 25719
               }
             },
             {
               "node_type": "item",
-              "title": "Responsively App by Manoj Vivek",
-              "description": "and Suresh Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.",
+              "title": "Responsively App",
+              "description": "by Manoj Vivek and Suresh Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -47,19 +113,19 @@
                 "last_commit": "2026-08-02T05:24:28Z",
                 "owner": "responsively-org",
                 "repo": "responsively-app",
-                "stars": 25131
+                "stars": 25132
               }
             },
             {
               "node_type": "item",
-              "title": "OpenEBS by OpenEBS",
-              "description": "Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",
+              "title": "OpenEBS",
+              "description": "by OpenEBS Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-24T00:30:37Z",
+                "last_commit": "2026-08-24T14:18:50Z",
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9800
@@ -67,17 +133,17 @@
             },
             {
               "node_type": "item",
-              "title": "Fission by Fission",
-              "description": "Fast and Simple Serverless Functions for Kubernetes.",
+              "title": "Fission",
+              "description": "by Fission Fast and Simple Serverless Functions for Kubernetes.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 66050533,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:40:10Z",
+                "last_commit": "2026-08-24T12:26:06Z",
                 "owner": "fission",
                 "repo": "fission",
-                "stars": 8910
+                "stars": 8912
               }
             }
           ],
@@ -89,29 +155,29 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Chatwoot by Chatwoot",
-              "description": "A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.",
+              "title": "Chatwoot",
+              "description": "by Chatwoot A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T01:12:16Z",
+                "last_commit": "2026-08-24T14:20:21Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36115
+                "stars": 36149
               }
             },
             {
               "node_type": "item",
-              "title": "Bagisto by Bagisto",
-              "description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.",
+              "title": "Bagisto",
+              "description": "by Bagisto A Free and Opensource laravel eCommerce framework built for all to build and scale your business.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 148129143,
                 "language": "PHP",
-                "last_commit": "2026-08-22T09:52:53Z",
+                "last_commit": "2026-08-24T11:44:31Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
                 "stars": 27987
@@ -119,14 +185,14 @@
             },
             {
               "node_type": "item",
-              "title": "Karate by Peter Thomas",
-              "description": "Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.",
+              "title": "Karate",
+              "description": "by Peter Thomas Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 81226206,
                 "language": "Java",
-                "last_commit": "2026-08-23T10:31:56Z",
+                "last_commit": "2026-08-24T03:46:55Z",
                 "owner": "karatelabs",
                 "repo": "karate",
                 "stars": 8926
@@ -134,8 +200,8 @@
             },
             {
               "node_type": "item",
-              "title": "AI Chatbot framework by Alfred Francis",
-              "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+              "title": "AI Chatbot framework",
+              "description": "by Alfred Francis A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,8 +215,8 @@
             },
             {
               "node_type": "item",
-              "title": "Project Travel Mate by Prabhakar Gupta",
-              "description": "and Swati Garg Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends.",
+              "title": "Project Travel Mate",
+              "description": "by Prabhakar Gupta and Swati Garg Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,8 +230,8 @@
             },
             {
               "node_type": "item",
-              "title": "IndicNLP Library by Anoop Kunchukuttan",
-              "description": "A python library for Indian language Natural Language Processing supporting many common NLP tasks like tokenization, word segmentation, script conversion, and many more.",
+              "title": "IndicNLP Library",
+              "description": "by Anoop Kunchukuttan A python library for Indian language Natural Language Processing supporting many common NLP tasks like tokenization, word segmentation, script conversion, and many more.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +240,7 @@
                 "last_commit": "2024-06-07T07:14:41Z",
                 "owner": "anoopkunchukuttan",
                 "repo": "indic_nlp_library",
-                "stars": 644
+                "stars": 645
               }
             }
           ],
@@ -186,23 +252,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "ToolJet by Navaneeth Pk",
-              "description": "Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc",
+              "title": "ToolJet",
+              "description": "by Navaneeth Pk Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:01:41Z",
+                "last_commit": "2026-08-24T14:08:10Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40734
+                "stars": 40746
               }
             },
             {
               "node_type": "item",
-              "title": "Kundera by Impetus",
-              "description": "A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.",
+              "title": "Kundera",
+              "description": "by Impetus A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,8 +282,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kerala Rescue by Raksha",
-              "description": "Website for coordinating rehabilitation of people affected in the Kerala Floods.",
+              "title": "Kerala Rescue",
+              "description": "by Raksha Website for coordinating rehabilitation of people affected in the Kerala Floods.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,8 +297,8 @@
             },
             {
               "node_type": "item",
-              "title": "Gasper by SDS Labs, IIT Roorkee",
-              "description": "Gasper is an intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.",
+              "title": "Gasper",
+              "description": "by SDS Labs, IIT Roorkee Gasper is an intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,8 +312,8 @@
             },
             {
               "node_type": "item",
-              "title": "Webzash by Prashant Shah",
-              "description": "Easy to use web based double entry accounting software in PHP - MySQL under MIT License.",
+              "title": "Webzash",
+              "description": "by Prashant Shah Easy to use web based double entry accounting software in PHP - MySQL under MIT License.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,8 +327,8 @@
             },
             {
               "node_type": "item",
-              "title": "Rubeus by SDS Labs, IIT Roorkee",
-              "description": "A cross platform 2D game engine written in C++ for beginners.",
+              "title": "Rubeus",
+              "description": "by SDS Labs, IIT Roorkee A cross platform 2D game engine written in C++ for beginners.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,8 +342,8 @@
             },
             {
               "node_type": "item",
-              "title": "LeetCode Rating Predictor by Sagar Gupta",
-              "description": "LSTM-based contest rating predictor for LeetCode with 85%+ accuracy. Built with FastAPI, TensorFlow, and React.",
+              "title": "LeetCode Rating Predictor",
+              "description": "by Sagar Gupta LSTM-based contest rating predictor for LeetCode with 85%+ accuracy. Built with FastAPI, TensorFlow, and React.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,8 +357,8 @@
             },
             {
               "node_type": "item",
-              "title": "Ledger Sync by Sagar Gupta",
-              "description": "Excel-to-dashboard finance app with Sankey diagrams, anomaly detection, and 20+ pages. Built with React 19, FastAPI, and PostgreSQL.",
+              "title": "Ledger Sync",
+              "description": "by Sagar Gupta Excel-to-dashboard finance app with Sankey diagrams, anomaly detection, and 20+ pages. Built with React 19, FastAPI, and PostgreSQL.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -306,8 +372,8 @@
             },
             {
               "node_type": "item",
-              "title": "AquilaDB by a-mma (a_മ്മ)",
-              "description": "Drop in solution for Decentralized Neural Information Retrieval. Index latent vectors along with JSON metadata and do efficient k-NN search.",
+              "title": "AquilaDB",
+              "description": "by a-mma (a_മ്മ) Drop in solution for Decentralized Neural Information Retrieval. Index latent vectors along with JSON metadata and do efficient k-NN search.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -329,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:50:33.583Z",
+    "last_updated": "2026-08-24T14:39:19.187Z",
     "original_repository": "jeswinsimon/awesome-made-by-indians",
     "original_repository_id": 289402069,
     "original_repository_sha": "cfefb585366eb2dfb0ba9a9b9a08dc33d5e564fc",
