@@ -11,45 +11,45 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,079 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-22** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,085 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-22** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
 
-* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,100 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19** by [Hasura](https://github.com/hasura)<br>
+* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,101 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19** by [Hasura](https://github.com/hasura)<br>
   Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,559 | 🐛 11 | 🌐 Python | 📅 2026-08-23** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,567 | 🐛 11 | 🌐 Python | 📅 2026-08-23** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 38,390 | 🐛 1,844 | 🌐 Python | 📅 2026-08-21** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 38,423 | 🐛 1,835 | 🌐 Python | 📅 2026-08-23** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,710 | 🐛 6 | 🌐 Python | 📅 2026-08-23** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,714 | 🐛 6 | 🌐 Python | 📅 2026-08-23** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
-* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,129 | 🐛 317 | 🌐 TypeScript | 📅 2026-08-02** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,131 | 🐛 317 | 🌐 TypeScript | 📅 2026-08-02** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
   Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
 
-* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,800 | 🐛 39 | 📅 2026-08-23** by [OpenEBS](https://github.com/openebs)<br>
+* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,800 | 🐛 39 | 📅 2026-08-24** by [OpenEBS](https://github.com/openebs)<br>
   Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
-* **[Fission](https://github.com/fission/fission) ⭐ 8,910 | 🐛 50 | 🌐 Go | 📅 2026-08-22** by [Fission](https://github.com/fission)<br>
+* **[Fission](https://github.com/fission/fission) ⭐ 8,910 | 🐛 47 | 🌐 Go | 📅 2026-08-24** by [Fission](https://github.com/fission)<br>
   Fast and Simple Serverless Functions for Kubernetes.
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,075 | 🐛 1,353 | 🌐 Ruby | 📅 2026-08-23** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,115 | 🐛 1,354 | 🌐 Ruby | 📅 2026-08-23** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 27,986 | 🐛 29 | 🌐 PHP | 📅 2026-08-22** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 27,987 | 🐛 31 | 🌐 PHP | 📅 2026-08-22** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
-* **[Karate](https://github.com/intuit/karate) ⭐ 8,924 | 🐛 8 | 🌐 Java | 📅 2026-08-22** by [Peter Thomas](https://github.com/ptrthomas)<br>
+* **[Karate](https://github.com/intuit/karate) ⭐ 8,926 | 🐛 8 | 🌐 Java | 📅 2026-08-23** by [Peter Thomas](https://github.com/ptrthomas)<br>
   Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
 
 * **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework) ⭐ 2,166 | 🐛 11 | 🌐 TypeScript | 📅 2025-05-21** by [Alfred Francis](https://github.com/alfredfrancis)<br>
@@ -58,12 +58,12 @@
 * **[Project Travel Mate](https://github.com/project-travel-mate/Travel-Mate) ⭐ 1,336 | 🐛 37 | 🌐 Java | 📅 2022-06-13** by [Prabhakar Gupta](https://github.com/prabhakar267/) and [Swati Garg](https://github.com/Swati4star)<br>
   Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends.
 
-* **[IndicNLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 643 | 🐛 34 | 🌐 Python | 📅 2024-06-07** by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 643 | 🐛 34 | 🌐 Python | 📅 2024-06-07<br>
+* **[IndicNLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 644 | 🐛 34 | 🌐 Python | 📅 2024-06-07** by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 644 | 🐛 34 | 🌐 Python | 📅 2024-06-07<br>
   A python library for Indian language Natural Language Processing supporting many common NLP tasks like tokenization, word segmentation, script conversion, and many more.
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 40,697 | 🐛 1,156 | 🌐 JavaScript | 📅 2026-08-22** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 40,734 | 🐛 1,157 | 🌐 JavaScript | 📅 2026-08-24** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 902 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
@@ -132,4 +132,4 @@ If you find a discrepancy in the list please feel free to raise an issue or a PR
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
