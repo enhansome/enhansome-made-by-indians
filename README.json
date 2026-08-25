@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:30:15Z",
+                "last_commit": "2026-08-24T17:33:02Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80089
+                "stars": 80091
               }
             }
           ],
@@ -58,10 +58,10 @@
                 "archived": false,
                 "id": 71056775,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:08:33Z",
+                "last_commit": "2026-08-24T21:32:48Z",
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34577
+                "stars": 34583
               }
             }
           ],
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:03:33Z",
+                "last_commit": "2026-08-24T16:08:12Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38448
+                "stars": 38454
               }
             },
             {
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-23T23:25:51Z",
+                "last_commit": "2026-08-24T16:28:40Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25719
+                "stars": 25720
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-02T05:24:28Z",
                 "owner": "responsively-org",
                 "repo": "responsively-app",
-                "stars": 25132
+                "stars": 25133
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-24T14:18:50Z",
+                "last_commit": "2026-08-25T00:29:06Z",
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9800
@@ -140,10 +140,10 @@
                 "archived": false,
                 "id": 66050533,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:26:06Z",
+                "last_commit": "2026-08-25T01:59:39Z",
                 "owner": "fission",
                 "repo": "fission",
-                "stars": 8912
+                "stars": 8913
               }
             }
           ],
@@ -162,10 +162,10 @@
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:20:21Z",
+                "last_commit": "2026-08-25T01:54:49Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36149
+                "stars": 36170
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-24T11:44:31Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 27987
+                "stars": 27989
               }
             },
             {
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:08:10Z",
+                "last_commit": "2026-08-24T18:37:31Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40746
+                "stars": 40755
               }
             },
             {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:19.187Z",
+    "last_updated": "2026-08-25T02:44:49.381Z",
     "original_repository": "jeswinsimon/awesome-made-by-indians",
     "original_repository_id": 289402069,
     "original_repository_sha": "cfefb585366eb2dfb0ba9a9b9a08dc33d5e564fc",
