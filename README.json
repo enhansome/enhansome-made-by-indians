@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T17:33:02Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80091
+                "stars": 80093
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32101
+                "stars": 32100
               }
             }
           ],
@@ -58,10 +58,10 @@
                 "archived": false,
                 "id": 71056775,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:32:48Z",
+                "last_commit": "2026-08-25T04:44:46Z",
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34583
+                "stars": 34587
               }
             }
           ],
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:08:12Z",
+                "last_commit": "2026-08-25T06:17:40Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38454
+                "stars": 38461
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-24T16:28:40Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25720
+                "stars": 25722
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-25T00:29:06Z",
                 "owner": "openebs",
                 "repo": "openebs",
-                "stars": 9800
+                "stars": 9799
               }
             },
             {
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 66050533,
                 "language": "Go",
-                "last_commit": "2026-08-25T01:59:39Z",
+                "last_commit": "2026-08-25T04:49:17Z",
                 "owner": "fission",
                 "repo": "fission",
                 "stars": 8913
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-25T01:54:49Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36170
+                "stars": 36179
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-24T11:44:31Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 27989
+                "stars": 27988
               }
             },
             {
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T18:37:31Z",
+                "last_commit": "2026-08-25T06:28:25Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40755
+                "stars": 40758
               }
             },
             {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:44:49.381Z",
+    "last_updated": "2026-08-25T06:32:24.093Z",
     "original_repository": "jeswinsimon/awesome-made-by-indians",
     "original_repository_id": 289402069,
     "original_repository_sha": "cfefb585366eb2dfb0ba9a9b9a08dc33d5e564fc",
