@@ -29,7 +29,7 @@
 * **[ERPNext](https://github.com/frappe/erpnext) ⭐ 38,560 | 🐛 1,826 | 🌐 Python | 📅 2026-08-27** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,742 | 🐛 6 | 🌐 Python | 📅 2026-08-27** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,743 | 🐛 6 | 🌐 Python | 📅 2026-08-27** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
 * **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,138 | 🐛 320 | 🌐 TypeScript | 📅 2026-08-02** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
@@ -46,10 +46,10 @@
 * **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,252 | 🐛 1,355 | 🌐 Ruby | 📅 2026-08-27** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,008 | 🐛 31 | 🌐 PHP | 📅 2026-08-27** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,011 | 🐛 31 | 🌐 PHP | 📅 2026-08-27** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
-* **[Karate](https://github.com/intuit/karate) ⭐ 8,929 | 🐛 4 | 🌐 Java | 📅 2026-08-26** by [Peter Thomas](https://github.com/ptrthomas)<br>
+* **[Karate](https://github.com/intuit/karate) ⭐ 8,930 | 🐛 4 | 🌐 Java | 📅 2026-08-26** by [Peter Thomas](https://github.com/ptrthomas)<br>
   Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
 
 * **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework) ⭐ 2,168 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26** by [Alfred Francis](https://github.com/alfredfrancis)<br>
@@ -98,7 +98,7 @@
 * **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
   An open source platform on which national foundational IDs are built.
 
-* **[Inji](https://github.com/mosip/inji) ⭐ 36 | 🐛 291 | 🌐 TypeScript | 📅 2026-08-27** <br>
+* **[Inji](https://github.com/mosip/inji) ⭐ 36 | 🐛 290 | 🌐 TypeScript | 📅 2026-08-27** <br>
   An opensource verifiable credential platform compliant to OpenID4VP & OpenID4VCI
 
 * **[Sunbird](https://github.com/project-sunbird)** <br> Sunbird is a set of configurable, extendable, modular open source digital building blocks for learning and human development designed for scale.

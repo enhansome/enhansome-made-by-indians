@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:20:12Z",
+                "last_commit": "2026-08-27T12:06:12Z",
                 "owner": "frappe",
                 "repo": "erpnext",
                 "stars": 38560
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:54:21Z",
+                "last_commit": "2026-08-27T12:01:48Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25742
+                "stars": 25743
               }
             },
             {
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:26:35Z",
+                "last_commit": "2026-08-27T12:07:26Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
                 "stars": 36252
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-27T09:48:33Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 28008
+                "stars": 28011
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-26T13:28:14Z",
                 "owner": "karatelabs",
                 "repo": "karate",
-                "stars": 8929
+                "stars": 8930
               }
             },
             {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:10.690Z",
+    "last_updated": "2026-08-27T12:15:31.285Z",
     "original_repository_info": {
       "archived": false,
       "id": 289402069,
