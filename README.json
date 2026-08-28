@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:29:09Z",
+                "last_commit": "2026-08-28T07:35:14Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80102
-              }
+                "stars": 80112
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32099
-              }
+                "stars": 32102
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -58,11 +60,12 @@
                 "archived": false,
                 "id": 71056775,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:27:17Z",
+                "last_commit": "2026-08-28T12:39:53Z",
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34626
-              }
+                "stars": 34641
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -80,11 +83,12 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:06:12Z",
+                "last_commit": "2026-08-28T12:06:40Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38560
-              }
+                "stars": 38594
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -95,11 +99,12 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:01:48Z",
+                "last_commit": "2026-08-28T08:44:06Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25743
-              }
+                "stars": 25749
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -113,8 +118,9 @@
                 "last_commit": "2026-08-02T05:24:28Z",
                 "owner": "responsively-org",
                 "repo": "responsively-app",
-                "stars": 25138
-              }
+                "stars": 25141
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -125,11 +131,12 @@
                 "archived": false,
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-27T08:45:17Z",
+                "last_commit": "2026-08-28T03:45:41Z",
                 "owner": "openebs",
                 "repo": "openebs",
-                "stars": 9804
-              }
+                "stars": 9805
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -140,11 +147,12 @@
                 "archived": false,
                 "id": 66050533,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:03:05Z",
+                "last_commit": "2026-08-28T12:54:29Z",
                 "owner": "fission",
                 "repo": "fission",
                 "stars": 8913
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -162,11 +170,12 @@
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T12:07:26Z",
+                "last_commit": "2026-08-28T10:44:18Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36252
-              }
+                "stars": 36275
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -180,8 +189,9 @@
                 "last_commit": "2026-08-27T09:48:33Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 28011
-              }
+                "stars": 28022
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -195,8 +205,9 @@
                 "last_commit": "2026-08-26T13:28:14Z",
                 "owner": "karatelabs",
                 "repo": "karate",
-                "stars": 8930
-              }
+                "stars": 8931
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -210,8 +221,9 @@
                 "last_commit": "2026-08-26T12:14:50Z",
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2168
-              }
+                "stars": 2169
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "project-travel-mate",
                 "repo": "Travel-Mate",
                 "stars": 1336
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "anoopkunchukuttan",
                 "repo": "indic_nlp_library",
                 "stars": 645
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -259,11 +273,12 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:47:31Z",
+                "last_commit": "2026-08-28T12:50:58Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40778
-              }
+                "stars": 40785
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "Impetus",
                 "repo": "kundera",
                 "stars": 902
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "raksha-life",
                 "repo": "rescuekerala",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -308,7 +325,8 @@
                 "owner": "sdslabs",
                 "repo": "gasper",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -323,7 +341,8 @@
                 "owner": "prashants",
                 "repo": "webzash",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "sdslabs",
                 "repo": "Rubeus",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "Sagargupta16",
                 "repo": "LeetCode_Rating_Predictor",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "Sagargupta16",
                 "repo": "ledger-sync",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "a-mma",
                 "repo": "AquilaDB",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:22:24.376Z"
             }
           ],
           "description": null,
@@ -395,7 +418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:31.285Z",
+    "last_updated": "2026-08-28T13:22:24.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 289402069,
