@@ -21,7 +21,7 @@
                 "open_issues": 804,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80113,
+                "stars": 80112,
                 "topics": [
                   "api",
                   "api-client",
@@ -112,7 +112,7 @@
                 "open_issues": 10,
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34661,
+                "stars": 34665,
                 "topics": [
                   "c",
                   "go",
@@ -149,11 +149,11 @@
                 "id": 1864233,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T15:05:25Z",
+                "last_commit": "2026-08-29T07:58:05Z",
                 "open_issues": 1823,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38616,
+                "stars": 38622,
                 "topics": [
                   "accounting",
                   "asset-management",
@@ -187,11 +187,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T03:38:08Z",
+                "last_commit": "2026-08-29T07:46:14Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25753,
+                "stars": 25754,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -223,7 +223,7 @@
                 "open_issues": 321,
                 "owner": "responsively-org",
                 "repo": "responsively-app",
-                "stars": 25142,
+                "stars": 25141,
                 "topics": [
                   "contributions-welcome",
                   "desktop-app",
@@ -339,11 +339,11 @@
                 "id": 202291859,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T23:36:53Z",
+                "last_commit": "2026-08-29T07:34:40Z",
                 "open_issues": 1350,
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36285,
+                "stars": 36287,
                 "topics": [
                   "actioncable",
                   "chat-widget",
@@ -384,7 +384,7 @@
                 "open_issues": 31,
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 28032,
+                "stars": 28036,
                 "topics": [
                   "b2b-ecommerce",
                   "blockchain-ecommerce",
@@ -422,7 +422,7 @@
                 "id": 81226206,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-28T15:46:31Z",
+                "last_commit": "2026-08-29T06:55:26Z",
                 "open_issues": 9,
                 "owner": "karatelabs",
                 "repo": "karate",
@@ -559,10 +559,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T22:52:19Z",
-                "open_issues": 1170,
+                "open_issues": 1171,
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40787,
+                "stars": 40789,
                 "topics": [
                   "ai-app-builder",
                   "docker",
@@ -834,7 +834,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:15.543Z",
+    "last_updated": "2026-08-29T08:18:32.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇮🇳 An awesome list for the best projects that were made and mainly contributed by Indian developers",
