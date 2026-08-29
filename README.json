@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+                "homepage": "https://hoppscotch.io",
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:35:14Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:30:09Z",
+                "open_issues": 804,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80112
+                "stars": 80113,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-rest",
+                  "api-testing",
+                  "developer-tools",
+                  "graphql",
+                  "http",
+                  "http-client",
+                  "pwa",
+                  "rest",
+                  "rest-api",
+                  "spa",
+                  "testing",
+                  "testing-tools",
+                  "tools",
+                  "vue",
+                  "vuejs",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -35,12 +59,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+                "homepage": "https://hasura.io",
                 "id": 137724480,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T16:56:27Z",
+                "open_issues": 2374,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32102
+                "stars": 32104,
+                "topics": [
+                  "access-control",
+                  "api",
+                  "automatic-api",
+                  "bigquery",
+                  "graphql",
+                  "graphql-api",
+                  "graphql-server",
+                  "haskell",
+                  "hasura",
+                  "mongodb",
+                  "postgres",
+                  "rest-api",
+                  "sql-server",
+                  "subgraph",
+                  "supergraph"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -58,12 +103,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
+                "homepage": "https://sw.kovidgoyal.net/kitty/",
                 "id": 71056775,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:39:53Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T04:24:04Z",
+                "open_issues": 10,
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34641
+                "stars": 34661,
+                "topics": [
+                  "c",
+                  "go",
+                  "golang",
+                  "golang-application",
+                  "kitty",
+                  "kitty-terminal",
+                  "opengl",
+                  "python",
+                  "terminal",
+                  "terminal-emulators",
+                  "terminfo",
+                  "vt100"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -81,12 +144,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+                "homepage": "https://frappe.io/erpnext",
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:06:40Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T15:05:25Z",
+                "open_issues": 1823,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38594
+                "stars": 38616,
+                "topics": [
+                  "accounting",
+                  "asset-management",
+                  "crm",
+                  "distribution",
+                  "erp",
+                  "erpnext",
+                  "frappe",
+                  "healthcare",
+                  "hrms",
+                  "manufacturing",
+                  "point-of-sale",
+                  "procurement",
+                  "project-management",
+                  "python",
+                  "retail",
+                  "support"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -97,12 +182,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official source code repository for the calibre ebook manager",
+                "homepage": "https://calibre-ebook.com",
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-28T08:44:06Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:38:08Z",
+                "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25749
+                "stars": 25753,
+                "topics": [
+                  "calibre",
+                  "ebook",
+                  "ebook-formats",
+                  "ebook-manager",
+                  "ebook-reader",
+                  "ebooks",
+                  "epub",
+                  "epub-generation",
+                  "kindle",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -113,12 +214,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+                "homepage": "https://responsively.app",
                 "id": 201570219,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-02T05:24:28Z",
+                "open_issues": 321,
                 "owner": "responsively-org",
                 "repo": "responsively-app",
-                "stars": 25141
+                "stars": 25142,
+                "topics": [
+                  "contributions-welcome",
+                  "desktop-app",
+                  "developer-tools",
+                  "electron",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "javascript",
+                  "opensource-alternative",
+                  "react",
+                  "redux",
+                  "responsive",
+                  "responsive-web-design",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -129,12 +249,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.",
+                "homepage": "https://openebs.io",
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-28T03:45:41Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:50:39Z",
+                "open_issues": 37,
                 "owner": "openebs",
                 "repo": "openebs",
-                "stars": 9805
+                "stars": 9805,
+                "topics": [
+                  "block-storage",
+                  "blockstorage",
+                  "cloud-native",
+                  "containerization",
+                  "csi",
+                  "devops",
+                  "docker",
+                  "ebs",
+                  "ebs-volumes",
+                  "filesystems",
+                  "k8s",
+                  "k8s-sig-storage",
+                  "kubernetes",
+                  "openebs",
+                  "persistent-storage",
+                  "persistent-workloads",
+                  "pod",
+                  "spdk",
+                  "storage",
+                  "storage-container"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -145,12 +291,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and Simple Serverless Functions for Kubernetes",
+                "homepage": "https://fission.io",
                 "id": 66050533,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:54:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:39:40Z",
+                "open_issues": 44,
                 "owner": "fission",
                 "repo": "fission",
-                "stars": 8913
+                "stars": 8913,
+                "topics": [
+                  "cloud-native",
+                  "containers",
+                  "devops",
+                  "docker",
+                  "faas",
+                  "fission",
+                  "functions",
+                  "functions-as-a-service",
+                  "go",
+                  "hacktoberfest",
+                  "kubernetes",
+                  "lambda",
+                  "serverless",
+                  "serverless-functions"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -168,12 +334,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+                "homepage": "https://www.chatwoot.com/help-center",
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T10:44:18Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:36:53Z",
+                "open_issues": 1350,
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36275
+                "stars": 36285,
+                "topics": [
+                  "actioncable",
+                  "chat-widget",
+                  "conversation",
+                  "customer-support",
+                  "dashboard",
+                  "design",
+                  "docker",
+                  "docker-image",
+                  "heroku",
+                  "intercom",
+                  "javascript",
+                  "livechat",
+                  "opensource",
+                  "rails",
+                  "ruby",
+                  "sass",
+                  "vuejs",
+                  "whatsapp",
+                  "zendesk"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -184,12 +375,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs",
+                "homepage": "https://bagisto.com",
                 "id": 148129143,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:48:33Z",
+                "open_issues": 31,
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 28022
+                "stars": 28032,
+                "topics": [
+                  "b2b-ecommerce",
+                  "blockchain-ecommerce",
+                  "ecommerce",
+                  "ecommerce-framework",
+                  "ecommerce-platform",
+                  "hacktoberfest",
+                  "headless-commerce",
+                  "laravel",
+                  "laravel-application",
+                  "laravel-ecommerce",
+                  "laravel-package",
+                  "multi-tenancy-plugin",
+                  "multi-tenant",
+                  "multi-vendor-ecommerce",
+                  "multivendor-ecommerce",
+                  "nft-marketplace",
+                  "open-source",
+                  "opensource-ecommerce",
+                  "php",
+                  "php-ecommerce"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -200,12 +417,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test Automation Made Simple",
+                "homepage": "https://docs.karatelabs.io",
                 "id": 81226206,
                 "language": "Java",
-                "last_commit": "2026-08-26T13:28:14Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:46:31Z",
+                "open_issues": 9,
                 "owner": "karatelabs",
                 "repo": "karate",
-                "stars": 8931
+                "stars": 8931,
+                "topics": [
+                  "api-testing",
+                  "assertions",
+                  "automated-testing",
+                  "automation",
+                  "bdd",
+                  "contract-testing",
+                  "cucumber",
+                  "developer-tools",
+                  "load-testing",
+                  "microservices",
+                  "mock-server",
+                  "test-automation",
+                  "testing",
+                  "testing-framework",
+                  "testing-tools",
+                  "webdriver"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -216,12 +455,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+                "homepage": null,
                 "id": 76678740,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:14:50Z",
+                "open_issues": 11,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2169
+                "stars": 2169,
+                "topics": [
+                  "ai-chatbot",
+                  "ai-chatbot-framework",
+                  "chatbot",
+                  "conversational-ai",
+                  "deepseek",
+                  "hacktoberfest",
+                  "help-wanted",
+                  "langchain",
+                  "llm",
+                  "nextjs",
+                  "openai",
+                  "python",
+                  "tool-calling"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -232,12 +490,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete travel guide!",
+                "homepage": "https://project-travel-mate.github.io",
                 "id": 50726401,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-06-13T11:34:40Z",
+                "open_issues": 37,
                 "owner": "project-travel-mate",
                 "repo": "Travel-Mate",
-                "stars": 1336
+                "stars": 1336,
+                "topics": [
+                  "city",
+                  "hotel-booking",
+                  "journey",
+                  "monument",
+                  "transport",
+                  "travel",
+                  "travel-mate",
+                  "travel-planner",
+                  "trip"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -248,12 +521,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources and tools for Indian language Natural Language Processing",
+                "homepage": "http://anoopkunchukuttan.github.io/indic_nlp_library/",
                 "id": 25234558,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-07T07:14:41Z",
+                "open_issues": 34,
                 "owner": "anoopkunchukuttan",
                 "repo": "indic_nlp_library",
-                "stars": 645
+                "stars": 645,
+                "topics": [
+                  "indian-languages",
+                  "natural-language-processing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -271,12 +553,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+                "homepage": "https://tooljet.com",
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T12:50:58Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T22:52:19Z",
+                "open_issues": 1170,
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40785
+                "stars": 40787,
+                "topics": [
+                  "ai-app-builder",
+                  "docker",
+                  "hacktoberfest",
+                  "internal-applications",
+                  "internal-project",
+                  "internal-tool",
+                  "internal-tools",
+                  "javascript",
+                  "kubernetes",
+                  "low-code",
+                  "low-code-development-platform",
+                  "low-code-framework",
+                  "no-code",
+                  "nodejs",
+                  "reactjs",
+                  "self-hosted",
+                  "typescript",
+                  "web-development-tools",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -287,12 +594,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to: ",
+                "homepage": "http://groups.google.com/group/kundera-discuss/subscribe",
                 "id": 1711467,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-11T05:50:27Z",
+                "open_issues": 175,
                 "owner": "Impetus",
                 "repo": "kundera",
-                "stars": 902
+                "stars": 902,
+                "topics": [
+                  "java",
+                  "jpa",
+                  "kundera",
+                  "nosql",
+                  "polyglot"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -303,12 +621,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website for coordinating rehabilitation of people affected in the Kerala Floods",
+                "homepage": "https://keralarescue.in",
                 "id": 144834869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-31T14:51:27Z",
+                "open_issues": 186,
                 "owner": "raksha-life",
                 "repo": "rescuekerala",
-                "stars": 688
+                "stars": 688,
+                "topics": [
+                  "community",
+                  "crowdsourcing",
+                  "django",
+                  "flood",
+                  "hacktoberfest",
+                  "help",
+                  "open-source",
+                  "python",
+                  "rescue"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -319,12 +652,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your Cloud in a Binary",
+                "homepage": null,
                 "id": 146135891,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-19T20:22:06Z",
+                "open_issues": 47,
                 "owner": "sdslabs",
                 "repo": "gasper",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "application-deployment",
+                  "binary",
+                  "cloud",
+                  "database-deployment",
+                  "dns-server",
+                  "docker",
+                  "gasper",
+                  "go",
+                  "golang",
+                  "master-slave-architecture",
+                  "microservices",
+                  "paas",
+                  "reverse-proxy-server",
+                  "self-managed",
+                  "ssh-bridge",
+                  "ssh-server"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -335,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use web based double entry accounting software in PHP - MySQL under MIT License",
+                "homepage": "http://webzash.org",
                 "id": 27824335,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-20T11:54:05Z",
+                "open_issues": 54,
                 "owner": "prashants",
                 "repo": "webzash",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -351,12 +711,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross platform 2D game engine written in C++ for beginners",
+                "homepage": "https://blog.sdslabs.co/Rubeus-Docs",
                 "id": 134358438,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-07-22T14:29:21Z",
+                "open_issues": 26,
                 "owner": "sdslabs",
                 "repo": "Rubeus",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "cpp",
+                  "cpp17",
+                  "cross-platform",
+                  "engine",
+                  "game",
+                  "game-development",
+                  "opengl",
+                  "sdslabs"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -367,12 +741,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack LeetCode contest rating predictor: dense neural network on 7 engineered features (TensorFlow), FastAPI backend + React frontend with live predictions",
+                "homepage": "https://leetcode-rating-predictor.onrender.com/",
                 "id": 733502981,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:03:58Z",
+                "open_issues": 1,
                 "owner": "Sagargupta16",
                 "repo": "LeetCode_Rating_Predictor",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "contest-rating",
+                  "data-science",
+                  "deep-learning",
+                  "fastapi",
+                  "full-stack",
+                  "graphql",
+                  "leetcode",
+                  "machine-learning",
+                  "neural-network",
+                  "prediction",
+                  "python",
+                  "react",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -383,12 +776,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal finance dashboard -- turn messy Excel bank statements into 23 pages of beautiful analytics. Self-hosted, multi-currency, zero subscriptions.",
+                "homepage": "https://sagargupta.online/ledger-sync/",
                 "id": 1131147651,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T07:11:46Z",
+                "open_issues": 4,
                 "owner": "Sagargupta16",
                 "repo": "ledger-sync",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "analytics",
+                  "banking",
+                  "dashboard",
+                  "data-visualization",
+                  "excel",
+                  "fastapi",
+                  "finance",
+                  "python",
+                  "react",
+                  "sqlite",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             },
@@ -399,12 +810,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Drop in solution for Decentralized Neural Information Retrieval. Index latent vectors along with JSON metadata and do efficient k-NN search.",
+                "homepage": null,
                 "id": 294901728,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-09-12T08:22:11Z",
+                "open_issues": 0,
                 "owner": "a-mma",
                 "repo": "AquilaDB",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:22:24.376Z"
             }
@@ -418,15 +834,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:22:24.376Z",
+    "last_updated": "2026-08-29T04:56:15.543Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🇮🇳 An awesome list for the best projects that were made and mainly contributed by Indian developers",
+      "homepage": "https://jeswinsimon.github.io/awesome-made-by-indians/",
       "id": 289402069,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-16T09:35:30Z",
+      "open_issues": 0,
       "owner": "jeswinsimon",
       "repo": "awesome-made-by-indians",
-      "stars": 134
+      "stars": 134,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "india"
+      ]
     },
     "original_repository_sha": "cfefb585366eb2dfb0ba9a9b9a08dc33d5e564fc",
     "enhanced_repository": "enhansome/enhansome-made-by-indians",
