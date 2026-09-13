@@ -11,45 +11,45 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,289 | 🐛 821 | 🌐 TypeScript | 📅 2026-09-10** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,298 | 🐛 821 | 🌐 TypeScript | 📅 2026-09-12** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
 
-* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,113 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-09-09** by [Hasura](https://github.com/hasura)<br>
+* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,112 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-09-09** by [Hasura](https://github.com/hasura)<br>
   Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,866 | 🐛 12 | 🌐 Python | 📅 2026-09-11** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,880 | 🐛 11 | 🌐 Python | 📅 2026-09-13** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,137 | 🐛 1,834 | 🌐 Python | 📅 2026-09-12** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,169 | 🐛 1,843 | 🌐 Python | 📅 2026-09-13** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,882 | 🐛 7 | 🌐 Python | 📅 2026-09-12** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,890 | 🐛 7 | 🌐 Python | 📅 2026-09-12** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
-* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,164 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-02** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,165 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-02** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
   Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
 
-* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,811 | 🐛 36 | 📅 2026-09-12** by [OpenEBS](https://github.com/openebs)<br>
+* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,813 | 🐛 36 | 📅 2026-09-13** by [OpenEBS](https://github.com/openebs)<br>
   Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
-* **[Fission](https://github.com/fission/fission) ⭐ 8,916 | 🐛 50 | 🌐 Go | 📅 2026-09-11** by [Fission](https://github.com/fission)<br>
+* **[Fission](https://github.com/fission/fission) ⭐ 8,917 | 🐛 50 | 🌐 Go | 📅 2026-09-11** by [Fission](https://github.com/fission)<br>
   Fast and Simple Serverless Functions for Kubernetes.
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,720 | 🐛 1,387 | 🌐 Ruby | 📅 2026-09-11** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,744 | 🐛 1,392 | 🌐 Ruby | 📅 2026-09-12** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,111 | 🐛 28 | 🌐 PHP | 📅 2026-09-11** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,112 | 🐛 23 | 🌐 PHP | 📅 2026-09-12** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
-* **[Karate](https://github.com/intuit/karate) ⭐ 8,954 | 🐛 17 | 🌐 Java | 📅 2026-09-11** by [Peter Thomas](https://github.com/ptrthomas)<br>
+* **[Karate](https://github.com/intuit/karate) ⭐ 8,953 | 🐛 18 | 🌐 Java | 📅 2026-09-13** by [Peter Thomas](https://github.com/ptrthomas)<br>
   Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
 
 * **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework) ⭐ 2,168 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26** by [Alfred Francis](https://github.com/alfredfrancis)<br>
@@ -63,13 +63,13 @@
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 40,889 | 🐛 1,209 | 🌐 JavaScript | 📅 2026-09-11** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 40,897 | 🐛 1,211 | 🌐 JavaScript | 📅 2026-09-12** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 901 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
   A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.
 
-* **[Kerala Rescue](https://github.com/raksha-life/rescuekerala/) ⭐ 688 | 🐛 186 | 🌐 Python | 📅 2023-03-31** by [Raksha](https://github.com/raksha-life)<br>
+* **[Kerala Rescue](https://github.com/raksha-life/rescuekerala/) ⭐ 689 | 🐛 186 | 🌐 Python | 📅 2023-03-31** by [Raksha](https://github.com/raksha-life)<br>
   Website for coordinating rehabilitation of people affected in the Kerala Floods.
 
 * **[Gasper](https://github.com/sdslabs/gasper) ⭐ 439 | 🐛 47 | 🌐 Go | 📅 2026-03-19** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
@@ -132,4 +132,4 @@ If you find a discrepancy in the list please feel free to raise an issue or a PR
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
