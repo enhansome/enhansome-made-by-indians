@@ -11,42 +11,42 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,547 | 🐛 841 | 🌐 TypeScript | 📅 2026-09-28** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,555 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
 
-* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,124 | 🐛 2,375 | 🌐 TypeScript | 📅 2026-09-21** by [Hasura](https://github.com/hasura)<br>
+* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,127 | 🐛 2,375 | 🌐 TypeScript | 📅 2026-09-21** by [Hasura](https://github.com/hasura)<br>
   Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,111 | 🐛 15 | 🌐 Python | 📅 2026-09-28** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,118 | 🐛 15 | 🌐 Python | 📅 2026-09-30** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,640 | 🐛 1,785 | 🌐 Python | 📅 2026-09-29** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,662 | 🐛 1,779 | 🌐 Python | 📅 2026-09-30** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,035 | 🐛 6 | 🌐 Python | 📅 2026-09-29** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,041 | 🐛 6 | 🌐 Python | 📅 2026-09-30** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
-* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,202 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-20** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,204 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-20** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
   Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
 
-* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,823 | 🐛 40 | 📅 2026-09-29** by [OpenEBS](https://github.com/openebs)<br>
+* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,824 | 🐛 40 | 📅 2026-09-30** by [OpenEBS](https://github.com/openebs)<br>
   Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
-* **[Fission](https://github.com/fission/fission) ⭐ 8,927 | 🐛 49 | 🌐 Go | 📅 2026-09-29** by [Fission](https://github.com/fission)<br>
+* **[Fission](https://github.com/fission/fission) ⭐ 8,929 | 🐛 49 | 🌐 Go | 📅 2026-09-29** by [Fission](https://github.com/fission)<br>
   Fast and Simple Serverless Functions for Kubernetes.
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,295 | 🐛 1,510 | 🌐 Ruby | 📅 2026-09-29** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,350 | 🐛 1,516 | 🌐 Ruby | 📅 2026-09-30** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,195 | 🐛 29 | 🌐 PHP | 📅 2026-09-29** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,196 | 🐛 26 | 🌐 PHP | 📅 2026-09-30** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
 * **[Karate](https://github.com/intuit/karate) ⭐ 8,972 | 🐛 0 | 🌐 Java | 📅 2026-09-27** by [Peter Thomas](https://github.com/ptrthomas)<br>
@@ -63,7 +63,7 @@
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,010 | 🐛 1,266 | 🌐 JavaScript | 📅 2026-09-29** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,016 | 🐛 1,280 | 🌐 JavaScript | 📅 2026-09-30** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 900 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
@@ -81,7 +81,7 @@
 * **[Rubeus](https://github.com/sdslabs/Rubeus) ⭐ 183 | 🐛 26 | 🌐 C++ | 📅 2023-07-22** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
   A cross platform 2D game engine written in C++ for beginners.
 
-* **[Ledger Sync](https://github.com/Sagargupta16/ledger-sync) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-21** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
+* **[Ledger Sync](https://github.com/Sagargupta16/ledger-sync) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-29** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
   Excel-to-dashboard finance app with Sankey diagrams, anomaly detection, and 20+ pages. Built with React 19, FastAPI, and PostgreSQL.
 
 * **[LeetCode Rating Predictor](https://github.com/Sagargupta16/LeetCode_Rating_Predictor) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-09-28** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
@@ -98,7 +98,7 @@
 * **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
   An open source platform on which national foundational IDs are built.
 
-* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 306 | 🌐 TypeScript | 📅 2026-09-25** <br>
+* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 307 | 🌐 TypeScript | 📅 2026-09-25** <br>
   An opensource verifiable credential platform compliant to OpenID4VP & OpenID4VCI
 
 * **[Sunbird](https://github.com/project-sunbird)** <br> Sunbird is a set of configurable, extendable, modular open source digital building blocks for learning and human development designed for scale.
@@ -132,4 +132,4 @@ If you find a discrepancy in the list please feel free to raise an issue or a PR
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
