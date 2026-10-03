@@ -21,7 +21,7 @@
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,149 | 🐛 13 | 🌐 Python | 📅 2026-10-03** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,151 | 🐛 12 | 🌐 Python | 📅 2026-10-03** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
@@ -29,7 +29,7 @@
 * **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,749 | 🐛 1,802 | 🌐 Python | 📅 2026-10-03** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,055 | 🐛 6 | 🌐 Python | 📅 2026-10-03** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,056 | 🐛 6 | 🌐 Python | 📅 2026-10-03** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
 * **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,217 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-20** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
@@ -43,7 +43,7 @@
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,449 | 🐛 1,530 | 🌐 Ruby | 📅 2026-10-02** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,454 | 🐛 1,531 | 🌐 Ruby | 📅 2026-10-02** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
 * **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,200 | 🐛 27 | 🌐 PHP | 📅 2026-10-01** by [Bagisto](https://github.com/bagisto)<br>
