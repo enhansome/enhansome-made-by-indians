@@ -11,7 +11,7 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,572 | 🐛 847 | 🌐 TypeScript | 📅 2026-10-04** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,575 | 🐛 847 | 🌐 TypeScript | 📅 2026-10-04** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
@@ -21,15 +21,15 @@
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,178 | 🐛 13 | 🌐 Python | 📅 2026-10-06** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,180 | 🐛 12 | 🌐 Python | 📅 2026-10-06** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,828 | 🐛 1,947 | 🌐 Python | 📅 2026-10-06** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 39,833 | 🐛 1,952 | 🌐 Python | 📅 2026-10-06** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,071 | 🐛 6 | 🌐 Python | 📅 2026-10-05** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,072 | 🐛 6 | 🌐 Python | 📅 2026-10-06** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
 * **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,225 | 🐛 326 | 🌐 TypeScript | 📅 2026-10-03** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
@@ -43,10 +43,10 @@
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,570 | 🐛 1,552 | 🌐 Ruby | 📅 2026-10-06** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,576 | 🐛 1,553 | 🌐 Ruby | 📅 2026-10-06** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,212 | 🐛 28 | 🌐 PHP | 📅 2026-10-05** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,213 | 🐛 26 | 🌐 PHP | 📅 2026-10-06** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
 * **[Karate](https://github.com/intuit/karate) ⭐ 8,974 | 🐛 8 | 🌐 Java | 📅 2026-10-05** by [Peter Thomas](https://github.com/ptrthomas)<br>
@@ -63,7 +63,7 @@
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,039 | 🐛 1,310 | 🌐 JavaScript | 📅 2026-10-06** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,040 | 🐛 1,310 | 🌐 JavaScript | 📅 2026-10-06** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 900 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
