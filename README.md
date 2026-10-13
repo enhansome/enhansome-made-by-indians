@@ -11,42 +11,42 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,596 | 🐛 851 | 🌐 TypeScript | 📅 2026-10-12** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,606 | 🐛 852 | 🌐 TypeScript | 📅 2026-10-12** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
 
-* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,128 | 🐛 2,367 | 🌐 TypeScript | 📅 2026-10-12** by [Hasura](https://github.com/hasura)<br>
+* **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,130 | 🐛 2,368 | 🌐 TypeScript | 📅 2026-10-12** by [Hasura](https://github.com/hasura)<br>
   Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,242 | 🐛 13 | 🌐 Python | 📅 2026-10-12** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,261 | 🐛 13 | 🌐 Python | 📅 2026-10-13** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 40,037 | 🐛 1,434 | 🌐 Python | 📅 2026-10-12** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 40,089 | 🐛 1,447 | 🌐 Python | 📅 2026-10-13** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,122 | 🐛 7 | 🌐 Python | 📅 2026-10-12** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,134 | 🐛 7 | 🌐 Python | 📅 2026-10-12** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
-* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,254 | 🐛 326 | 🌐 TypeScript | 📅 2026-10-03** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,278 | 🐛 325 | 🌐 TypeScript | 📅 2026-10-03** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
   Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
 
-* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,829 | 🐛 38 | 📅 2026-10-12** by [OpenEBS](https://github.com/openebs)<br>
+* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,829 | 🐛 38 | 📅 2026-10-13** by [OpenEBS](https://github.com/openebs)<br>
   Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
-* **[Fission](https://github.com/fission/fission) ⭐ 8,932 | 🐛 51 | 🌐 Go | 📅 2026-10-06** by [Fission](https://github.com/fission)<br>
+* **[Fission](https://github.com/fission/fission) ⭐ 8,932 | 🐛 51 | 🌐 Go | 📅 2026-10-12** by [Fission](https://github.com/fission)<br>
   Fast and Simple Serverless Functions for Kubernetes.
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,714 | 🐛 1,582 | 🌐 Ruby | 📅 2026-10-12** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,745 | 🐛 1,590 | 🌐 Ruby | 📅 2026-10-13** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,229 | 🐛 30 | 🌐 PHP | 📅 2026-10-09** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,227 | 🐛 27 | 🌐 PHP | 📅 2026-10-13** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
 * **[Karate](https://github.com/intuit/karate) ⭐ 8,977 | 🐛 8 | 🌐 Java | 📅 2026-10-09** by [Peter Thomas](https://github.com/ptrthomas)<br>
@@ -63,7 +63,7 @@
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,079 | 🐛 909 | 🌐 HTML | 📅 2026-10-12** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,089 | 🐛 857 | 🌐 HTML | 📅 2026-10-13** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 900 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
@@ -72,7 +72,7 @@
 * **[Kerala Rescue](https://github.com/raksha-life/rescuekerala/) ⭐ 689 | 🐛 186 | 🌐 Python | 📅 2023-03-31** by [Raksha](https://github.com/raksha-life)<br>
   Website for coordinating rehabilitation of people affected in the Kerala Floods.
 
-* **[Gasper](https://github.com/sdslabs/gasper) ⭐ 439 | 🐛 47 | 🌐 Go | 📅 2026-03-19** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
+* **[Gasper](https://github.com/sdslabs/gasper) ⭐ 440 | 🐛 47 | 🌐 Go | 📅 2026-03-19** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
   Gasper is an intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.
 
 * **[Webzash](https://github.com/prashants/webzash) ⭐ 221 | 🐛 54 | 🌐 PHP | 📅 2021-07-20** by [Prashant Shah](https://github.com/prashants/webzash) ⭐ 221 | 🐛 54 | 🌐 PHP | 📅 2021-07-20<br>
@@ -81,10 +81,10 @@
 * **[Rubeus](https://github.com/sdslabs/Rubeus) ⭐ 183 | 🐛 26 | 🌐 C++ | 📅 2023-07-22** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
   A cross platform 2D game engine written in C++ for beginners.
 
-* **[Ledger Sync](https://github.com/Sagargupta16/ledger-sync) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-10** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
+* **[Ledger Sync](https://github.com/Sagargupta16/ledger-sync) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
   Excel-to-dashboard finance app with Sankey diagrams, anomaly detection, and 20+ pages. Built with React 19, FastAPI, and PostgreSQL.
 
-* **[LeetCode Rating Predictor](https://github.com/Sagargupta16/LeetCode_Rating_Predictor) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-06** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
+* **[LeetCode Rating Predictor](https://github.com/Sagargupta16/LeetCode_Rating_Predictor) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-10-12** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
   LSTM-based contest rating predictor for LeetCode with 85%+ accuracy. Built with FastAPI, TensorFlow, and React.
 
 * **[AquilaDB](https://github.com/a-mma/AquilaDB) ⚠️ Archived** by [a-mma (a\_മ്മ)](https://github.com/a-mma)<br>
@@ -98,7 +98,7 @@
 * **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
   An open source platform on which national foundational IDs are built.
 
-* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 306 | 🌐 TypeScript | 📅 2026-10-08** <br>
+* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 314 | 🌐 TypeScript | 📅 2026-10-12** <br>
   An opensource verifiable credential platform compliant to OpenID4VP & OpenID4VCI
 
 * **[Sunbird](https://github.com/project-sunbird)** <br> Sunbird is a set of configurable, extendable, modular open source digital building blocks for learning and human development designed for scale.
@@ -132,4 +132,4 @@ If you find a discrepancy in the list please feel free to raise an issue or a PR
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
