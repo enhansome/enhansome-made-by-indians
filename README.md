@@ -11,7 +11,7 @@
 
 ### > 25k 🌟
 
-* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,855 | 🐛 914 | 🌐 TypeScript | 📅 2026-11-05** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+* **[Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,862 | 🐛 914 | 🌐 TypeScript | 📅 2026-11-20** by [Liyas Thomas](https://github.com/liyasthomas)<br>
   A free, fast and beautiful API request builder.
 
 ### > 15k 🌟
@@ -21,21 +21,21 @@
 
 ### > 10k 🌟
 
-* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,760 | 🐛 16 | 🌐 Python | 📅 2026-11-20** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,765 | 🐛 13 | 🌐 Python | 📅 2026-11-21** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   A cross-platform, fast, feature full, GPU based terminal emulator.
 
 ### > 5k 🌟
 
-* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 41,466 | 🐛 2,354 | 🌐 Python | 📅 2026-11-20** by [Frappe](https://github.com/frappe)<br>
+* **[ERPNext](https://github.com/frappe/erpnext) ⭐ 41,490 | 🐛 2,251 | 🌐 Python | 📅 2026-11-21** by [Frappe](https://github.com/frappe)<br>
   Open Source Alternative to SAP.
 
-* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,477 | 🐛 6 | 🌐 Python | 📅 2026-11-20** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+* **[Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,484 | 🐛 6 | 🌐 Python | 📅 2026-11-21** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
   Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
-* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,576 | 🐛 330 | 🌐 TypeScript | 📅 2026-10-03** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+* **[Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,575 | 🐛 330 | 🌐 TypeScript | 📅 2026-10-03** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
   Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
 
-* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,848 | 🐛 44 | 📅 2026-11-20** by [OpenEBS](https://github.com/openebs)<br>
+* **[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,849 | 🐛 44 | 📅 2026-11-21** by [OpenEBS](https://github.com/openebs)<br>
   Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
 * **[Fission](https://github.com/fission/fission) ⭐ 8,949 | 🐛 51 | 🌐 Go | 📅 2026-11-17** by [Fission](https://github.com/fission)<br>
@@ -43,13 +43,13 @@
 
 ### > 1k 🌟
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,226 | 🐛 1,625 | 🌐 Ruby | 📅 2026-11-20** by [Chatwoot](https://github.com/chatwoot)<br>
+* **[Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,277 | 🐛 1,631 | 🌐 Ruby | 📅 2026-11-20** by [Chatwoot](https://github.com/chatwoot)<br>
   A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
-* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,390 | 🐛 28 | 🌐 PHP | 📅 2026-11-18** by [Bagisto](https://github.com/bagisto)<br>
+* **[Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,393 | 🐛 29 | 🌐 PHP | 📅 2026-11-18** by [Bagisto](https://github.com/bagisto)<br>
   A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
-* **[Karate](https://github.com/intuit/karate) ⭐ 9,009 | 🐛 9 | 🌐 Java | 📅 2026-11-13** by [Peter Thomas](https://github.com/ptrthomas)<br>
+* **[Karate](https://github.com/intuit/karate) ⭐ 9,009 | 🐛 8 | 🌐 Java | 📅 2026-11-21** by [Peter Thomas](https://github.com/ptrthomas)<br>
   Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
 
 * **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework) ⭐ 2,187 | 🐛 2 | 🌐 Python | 📅 2026-11-18** by [Alfred Francis](https://github.com/alfredfrancis)<br>
@@ -63,7 +63,7 @@
 
 ### New and Noteworthy
 
-* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,264 | 🐛 975 | 🌐 HTML | 📅 2026-11-20** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
+* **[ToolJet](https://github.com/ToolJet/ToolJet/) ⭐ 41,270 | 🐛 975 | 🌐 HTML | 📅 2026-11-20** by [Navaneeth Pk](https://github.com/Navaneeth-pk)<br>
   Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 
 * **[Kundera](https://github.com/Impetus/Kundera) ⭐ 899 | 🐛 175 | 🌐 Java | 📅 2020-02-11** by [Impetus](https://github.com/Impetus)<br>
@@ -98,7 +98,7 @@
 * **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
   An open source platform on which national foundational IDs are built.
 
-* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 342 | 🌐 TypeScript | 📅 2026-11-20** <br>
+* **[Inji](https://github.com/mosip/inji) ⭐ 38 | 🐛 343 | 🌐 TypeScript | 📅 2026-11-20** <br>
   An opensource verifiable credential platform compliant to OpenID4VP & OpenID4VCI
 
 * **[Sunbird](https://github.com/project-sunbird)** <br> Sunbird is a set of configurable, extendable, modular open source digital building blocks for learning and human development designed for scale.
@@ -132,4 +132,4 @@ If you find a discrepancy in the list please feel free to raise an issue or a PR
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
